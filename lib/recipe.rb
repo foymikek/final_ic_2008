@@ -24,4 +24,5 @@ class Recipe
     end
     calories_sum
   end
+
 end
